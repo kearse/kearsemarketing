@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://kearsemarketing.wordpress.com/xmlrpc.php">
+
+<title>Kearse Marketing &#8211; Everything You Need For Your Business</title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Gentium+Book+Basic:r:latin,latin-ext"]}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s1.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Gentium Book Basic",serif;font-style:normal;font-weight:400}.wf-active h1{font-style:normal;font-weight:400}.wf-active h2{font-style:normal;font-weight:400}.wf-active h3{font-style:normal;font-weight:400}.wf-active h4{font-style:normal;font-weight:400}.wf-active h5{font-style:normal;font-weight:400}.wf-active h6{font-style:normal;font-weight:400}.wf-active .site-header .entry-title{font-weight:400;font-style:normal}.wf-active .site-description{font-family:"Gentium Book Basic",serif;font-weight:400;font-style:normal}.wf-active .site-title{font-family:"Gentium Book Basic",serif;font-style:normal;font-weight:400}.wf-active .comment-reply-title, .wf-active .comments-title{font-style:normal;font-weight:400}.wf-active .widget-title{font-family:"Gentium Book Basic",serif;font-style:normal;font-weight:400}.wf-active .affinity-customizer.affinity-front-page .affinity-panel .affinity-panel-title{font-family:"Gentium Book Basic",serif;font-weight:400;font-style:normal}@media screen and (min-width: 46em){.wf-active h1{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h2{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h3{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h4{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h5{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h6{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active .entry-title{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active .site-description{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active .page-title{font-style:normal;font-weight:400}}</style>
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Kearse Marketing &raquo; Feed" href="https://kearsemarketing.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kearse Marketing &raquo; Comments Feed" href="https://kearsemarketing.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1473172720h&ver=4.6.1-RC1-38499"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJyFUdFOxDAM+yF65U4T8IL4lrbLWG5NWzUtY39PtsEQHCovU+zasZXpOSkXQ4FQNFWVfH3FwHpOLpJiQg/LL3RyzHf6bxtXyy5jKhgFDdH7OLf0Y3yDrGy11oO4y+LhkGNwvvZCC6F7wyPKAj4RhlvJlXWR98nG92No5XqcVheUZNykNtSSm15SlTX58xIH3k2oQyxbu2NobXMxg/CUTFkVBD0a8EAia9koPXy51nGU5s2Yvaq1KQOzki9hJVVGCfqnHq1V9qtsx//B3Fj3jTpVq80wYMCyfP/JF3o+d0/3XXd5PF+uH3306WE=' type='text/css' media='all' />
+<style id='wpcom-admin-bar-inline-css' type='text/css'>
+.goog-te-banner-frame { top:32px !important }
+</style>
+<link rel='stylesheet' id='affinity-fonts-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C400italic%2C700%2C700italic%7CLora%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/_static/??-eJyNUu1uwyAMfKExr1P30R/TnoVQh3gCGxmnVd++RJuidFPRfnFn7mydAc7FBWFDNsizK2mOxBUiMiq1izvwMdT6ABuvTZixQpkH8ONITHYB4gDVLgnduQTJfzybeVUC+eQy8rzFPQuLtYH+mInd4NWdnnvqiOKSBG8kfEPcmDxpz6o4JIkNRmiqDe2ZTKpTLKLmRtH8m/esayTIvhrqEk5OqErHFnitdVuEJdrSYkU9eZFq33uAOnldkv6c/3iztgy5Jfc+x7SHmGTwaRF85o/d/v3p9fDydth9XQG5bvNS' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9kFEKwjAMQC9kV9Q59UM8y1azkdmmtUkdenr7MRFHFQIh5JHkRU9BIRmbLsB6zHFLEB9zqkZe6X+AcjjEVqBySG/YeBIg0S6pYNOAxJpTxyZiEPS56r21flrieXTwLA6Y2wEKXec7tKASQ8wASb6q9wXu2wDpjlBathAFCa25qgiMTyh5c/go/n7YTJ3daV03zW6zPe4P4wtJVYVE'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kearsemarketing.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://kearsemarketing.wordpress.com/" />
+<link rel='shortlink' href='http://wp.me/P8eXpb-u' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=https%3A%2F%2Fkearsemarketing.wordpress.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=https%3A%2F%2Fkearsemarketing.wordpress.com%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Kearse Marketing" />
+<meta property="og:description" content="Everything You Need For Your Business" />
+<meta property="og:url" content="https://kearsemarketing.wordpress.com/" />
+<meta property="og:site_name" content="Kearse Marketing" />
+<meta property="og:image" content="https://kearsemarketing.files.wordpress.com/2016/12/city1.jpg" />
+<meta property="og:image:width" content="520" />
+<meta property="og:image:height" content="312" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:image:src" content="https://kearsemarketing.files.wordpress.com/2016/12/city1.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://kearsemarketing.wordpress.com/osd.xml" title="Kearse Marketing" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#f5eee9" />
+
+		<style type="text/css" id="affinity-overlay-opacity">
+
+			.custom-header-image {
+				opacity: 0.6;
+			}
+
+			.in-panel .custom-header-image {
+				opacity: 1;
+			}
+
+			@media screen and ( min-width: 48em ) {
+				.custom-header-image,
+				.in-panel .custom-header-image {
+					opacity: 0.6;
+				}
+			}
+
+		</style>
+
+			<style type="text/css" id="affinity-scrolling-background-images">
+			@media screen and (min-width: 65em) {
+					.custom-header-image {
+						background-attachment: fixed;
+						background-size: cover;
+						background-position: center;
+					}
+
+					.affinity-customizer .custom-header-image {
+						background-attachment: scroll;
+						background-size: cover;
+					}
+			}
+		</style>
+	<meta name="application-name" content="Kearse Marketing" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Everything You Need For Your Business" /><meta name="msapplication-task" content="name=Edit page;action-uri=https://wordpress.com/page/kearsemarketing.wordpress.com/30;icon-uri=https://s0.wp.com/i/icons/page.ico" /><meta name="msapplication-task" content="name=Write a post;action-uri=https://wordpress.com/post/kearsemarketing.wordpress.com;icon-uri=https://s2.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=Moderate comments;action-uri=https://kearsemarketing.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s0.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=Upload new media;action-uri=https://kearsemarketing.wordpress.com/wp-admin/media-new.php;icon-uri=https://s2.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=Blog stats;action-uri=https://kearsemarketing.wordpress.com/wp-admin/index.php?page=stats;icon-uri=https://s1.wp.com/i/icons/stats.ico" /><meta name="title" content="Kearse Marketing | Kearse Marketing on WordPress.com" />
+<meta name="description" content="Everything you need for your business Website, Logo, Business Card and Social Media design. &nbsp;" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f5eee9; }
+</style>
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+<style type="text/css" id="custom-colors-css">@media screen and (min-width:46em){.site-description a,.site-description a:visited{color:white !important}.main-navigation.toggled>div{background:transparent !important}}.button:hover,.button:active,.button:focus,button:hover,#infinite-handle span:hover,button:active,#infinite-handle span:active,button:focus,#infinite-handle span:focus,input[type="button"]:hover,input[type="button"]:active,input[type="button"]:focus,input[type="reset"]:hover,input[type="reset"]:active,input[type="reset"]:focus,input[type="submit"]:hover,input[type="submit"]:active,input[type="submit"]:focus{color:#2d2d2d}.button:hover,.button:active,.button:focus,button:hover,#infinite-handle span:hover,button:active,#infinite-handle span:active,button:focus,#infinite-handle span:focus,input[type="button"]:hover,input[type="button"]:active,input[type="button"]:focus,input[type="reset"]:hover,input[type="reset"]:active,input[type="reset"]:focus,input[type="submit"]:hover,input[type="submit"]:active,input[type="submit"]:focus{border-color:#2d2d2d}#infinite-handle span button:hover,#infinite-handle span button:focus,#infinite-handle span button:active{color:#2d2d2d}#infinite-handle span:hover button,#infinite-handle span:focus button,#infinite-handle span:active button{color:#2d2d2d}.button,button,#infinite-handle span,#infinite-handle span button,input[type="button"],input[type="reset"],input[type="submit"]{color:#fff}.button,button,#infinite-handle span,input[type="button"],input[type="reset"],input[type="submit"]{border-color:#fff}.menu-toggle{color:#fff}body,button,#infinite-handle span,input,select,textarea{color:#5e5853}label{color:#5e5853}.site-footer .sep{color:#5e5853}.page-links{color:#5e5853}a:hover,a:focus,a:active{color:#383e44}.entry-meta a:hover,.entry-meta a:focus,.entry-meta a:active{color:#383e44}.entry-meta{color:#383e44}.entry-footer{color:#383e44}.comment-navigation a,.comment-navigation a:visited,.posts-navigation a,.posts-navigation a:visited,.post-navigation a,.post-navigation a:visited{color:#383e44}.comment-navigation,.posts-navigation,.post-navigation{border-color:#e8e9ea}.comment-navigation,.posts-navigation,.post-navigation{border-color:rgba(232,233,234,.4)}.entry-meta{border-color:#e8e9ea}.entry-meta{border-color:rgba(232,233,234,.5)}#secondary .widget{border-color:#e8e9ea}#secondary .widget{border-color:rgba(232,233,234,.4)}.widget-title{border-color:#e8e9ea}.widget-title{border-color:rgba(232,233,234,.4)}.widget div>ul li,.widget>ul li{border-color:#e8e9ea}.widget div>ul li,.widget>ul li{border-color:rgba(232,233,234,.5)}.hentry{border-color:#e8e9ea}.hentry{border-color:rgba(232,233,234,.5)}.page-links{border-color:#e8e9ea}.page-links{border-color:rgba(232,233,234,.4)}td,th{border-color:#e8e9ea}td,th{border-color:rgba(232,233,234,.5)}.page-header{border-color:#e8e9ea}.page-header{border-color:rgba(232,233,234,.5)}blockquote{border-color:#e8e9ea}blockquote{border-color:rgba(232,233,234,.5)}.comment-body{border-color:#e8e9ea}.comment-body{border-color:rgba(232,233,234,.5)}.entry-meta,.comment-meta{border-color:#e8e9ea}.entry-meta,.comment-meta{border-color:rgba(232,233,234,.5)}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="number"],input[type="tel"],input[type="range"],input[type="date"],input[type="month"],input[type="week"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="color"],textarea{border-color:#e8e9ea}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="number"],input[type="tel"],input[type="range"],input[type="date"],input[type="month"],input[type="week"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="color"],textarea{border-color:rgba(232,233,234,.4)}.footer-widgets .widget-title{color:#e8e9ea}.footer-widgets{color:#e8e9ea}.site-title a,.site-title a:visited{color:#e8e9ea}body,.main-navigation.toggled>div{background-color:#f5eee9}.entry-title,.entry-title a,.entry-title a:visited{color:#6d6459}h1,h2,h3,h4,h5,h6{color:#6d6459}.widget-title{color:#6d6459}.comment-author .fn a,.comment-author .fn a:visited{color:#6d6459}.affinity-front-page .no-featured-image .entry-title{color:#6d6459}.main-navigation ul ul a,.main-navigation ul ul a:visited{color:#756d60}.button:hover,.button:active,.button:focus,button:hover,#infinite-handle span:hover,button:active,#infinite-handle span:active,button:focus,#infinite-handle span:focus,input[type="button"]:hover,input[type="button"]:active,input[type="button"]:focus,input[type="reset"]:hover,input[type="reset"]:active,input[type="reset"]:focus,input[type="submit"]:hover,input[type="submit"]:active,input[type="submit"]:focus{background-color:#a39c8e}.button:hover,.button:active,.button:focus,button:hover,#infinite-handle span:hover,button:active,#infinite-handle span:active,button:focus,#infinite-handle span:focus,input[type="button"]:hover,input[type="button"]:active,input[type="button"]:focus,input[type="reset"]:hover,input[type="reset"]:active,input[type="reset"]:focus,input[type="submit"]:hover,input[type="submit"]:active,input[type="submit"]:focus{outline-color:#a39c8e}.button:hover,.button:focus,.button:active{outline-color:#a39c8e}a,a:visited{color:#3d688e}.post-navigation .title{color:#3d688e}.site-footer{color:#3d688e}blockquote{color:#3d688e}.comment-navigation a:hover,.comment-navigation a:visited:hover,.posts-navigation a:hover,.posts-navigation a:visited:hover,.post-navigation a:hover,.post-navigation a:visited:hover{color:#3d688e}.site-description a,.site-description a:visited{color:#3d688e}.main-navigation ul ul a:hover,.main-navigation ul ul a.focus{color:#417099}.main-navigation ul ul li:hover>a:visited,.main-navigation ul ul li.focus>a:visited{color:#417099}.footer-widgets a,.footer-widgets a:visited{color:#4c82b2}.button,button,#infinite-handle span,input[type="button"],input[type="reset"],input[type="submit"]{outline-color:#44749d}.button,button,#infinite-handle span,input[type="button"],input[type="reset"],input[type="submit"]{background-color:#44749d}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="number"]:focus,input[type="tel"]:focus,input[type="range"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="week"]:focus,input[type="time"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="color"]:focus,textarea:focus{border-color:#44749d}</style>
+</head>
+
+<body class="home page page-id-30 page-child parent-pageid-5 page-template-default logged-in admin-bar no-customize-support custom-background mp6 customizer-styles-applied custom-header-active affinity-front-page highlander-enabled highlander-light">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+		
+<div class="custom-header">
+	
+			<div class="custom-header-image" style="padding-top: 60%; background-image: url(https://kearsemarketing.files.wordpress.com/2016/12/city1.jpg?w=520);">
+			</div>
+
+		
+</div><!-- .custom-header -->
+
+		<div class="header-wrapper clear">
+	<div class="site-branding">
+					<p class="site-title"><a href="https://kearsemarketing.wordpress.com/" rel="home">Kearse Marketing</a></p>
+			</div><!-- .site-branding -->
+
+	<nav id="site-navigation" class="main-navigation" role="navigation">
+	<button class="menu-toggle" aria-controls="top-menu" aria-expanded="false">Menu</button>
+	<div class="menu-menu-1-container"><ul id="top-menu" class="menu"><li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://kearsemarketing.wordpress.com/services/">Services</a></li>
+<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://kearsemarketing.wordpress.com/about/">About Us</a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://kearsemarketing.wordpress.com/contact/">Contact Us</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://kearsemarketing.wordpress.com/order-form/">Request Form</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://kearsemarketing.wordpress.com/blog/">Blog</a></li>
+</ul></div></nav><!-- #site-navigation -->
+</div><!-- .header-wrapper -->
+
+	<div class="site-description-wrapper">
+		
+						<p class="site-description"><a href="https://kearsemarketing.wordpress.com/" rel="home">Everything You Need For Your Business</a></p>
+			</div><!-- .site-description-wrapper -->
+
+
+	</header>
+
+	<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+	<main id="main" class="site-main" role="main">
+		
+<article id="post-30" class="post-30 page type-page status-publish has-post-thumbnail hentry affinity-panel">
+
+			<header class="entry-header">
+			<h1 class="entry-title">Kearse Marketing</h1>		</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<h2 style="text-align:center;">Everything you need for your business</h2>
+<h4 style="text-align:center;">Website, Logo, Business Card and Social Media design.</h4>
+<p>&nbsp;</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-press-this"><a rel="nofollow" data-shared="" class="share-press-this sd-button share-icon" href="https://kearsemarketing.wordpress.com/?share=press-this" target="_blank" title="Click to Press This!"><span>Press This</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-30" class="share-twitter sd-button share-icon" href="https://kearsemarketing.wordpress.com/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-30" class="share-facebook sd-button share-icon" href="https://kearsemarketing.wordpress.com/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-30" class="share-google-plus-1 sd-button share-icon" href="https://kearsemarketing.wordpress.com/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div></div>	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/kearsemarketing.wordpress.com/30">Edit <span class="screen-reader-text">"Kearse Marketing"</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+		
+<article id="post-2" class="post-2 page type-page status-publish hentry affinity-panel no-featured-image">
+
+	<span class="panel affinity-panel1" id="panel1">
+		<span class="affinity-panel-title">Panel 1</span>
+	</span>
+
+	<div class="custom-header in-panel">
+
+		
+		<header class="entry-header">
+			<h1 class="entry-title">About Us</h1>		</header><!-- .entry-header -->
+
+	</div>
+
+			<div class="entry-content">
+			<p style="text-align:left;">Kearse Marketing works mostly with small and newly founded businesses that are looking to have an online professional presence. because most small businesses have weak to non-excisting online presence, Kearse Marketing provides all the services needed to further our clients business. Our mission is to give our clients everything they need to be professional and successful.</p>
+		</div><!-- .entry-content -->
+	
+	<span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/kearsemarketing.wordpress.com/2">Edit <span class="screen-reader-text">"About Us"</span></a></span></article><!-- #post-## -->
+
+<article id="post-3" class="post-3 page type-page status-publish hentry affinity-panel no-featured-image">
+
+	<span class="panel affinity-panel2" id="panel2">
+		<span class="affinity-panel-title">Panel 2</span>
+	</span>
+
+	<div class="custom-header in-panel">
+
+		
+		<header class="entry-header">
+			<h1 class="entry-title">Contact Us</h1>		</header><!-- .entry-header -->
+
+	</div>
+
+			<div class="entry-content">
+			<h3>Please fill out contact form and we will contact you as soon as possible.</h3>
+<h5>Kearse Marketing:</h5>
+<h5>zkearse28@gmail.com</h5>
+<h5>(719)313-0838</h5>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div id='contact-form-3'>
+<form action='https://kearsemarketing.wordpress.com/contact/#contact-form-3' method='post' class='contact-form commentsblock'>
+
+<div>
+		<label for='g3-name' class='grunion-field-label name'>Name:<span>(required)</span></label>
+		<input type='text' name='g3-name' id='g3-name' value='kearsez' class='name'  required aria-required='true'/>
+	</div>
+
+<div>
+		<label for='g3-email' class='grunion-field-label email'>Email:<span>(required)</span></label>
+		<input type='email' name='g3-email' id='g3-email' value='zkearse28@gmail.com' class='email'  required aria-required='true'/>
+	</div>
+
+<div>
+		<label for='g3-business' class='grunion-field-label text'>Business<span>(required)</span></label>
+		<input type='text' name='g3-business' id='g3-business' value='' class='text'  required aria-required='true'/>
+	</div>
+
+<div>
+		<label for='g3-businesswebsite' class='grunion-field-label url'>Business Website</label>
+		<input type='text' name='g3-businesswebsite' id='g3-businesswebsite' value='https://kearsemarketing.wordpress.com' class='url'  />
+	</div>
+
+<div>
+		<label for='contact-form-comment-g3-comments' class='grunion-field-label textarea'>Comments</label>
+		<textarea name='g3-comments' id='contact-form-comment-g3-comments' rows='20' class='textarea'  ></textarea>
+	</div>
+	<p class='contact-submit'>
+		<input type='submit' value='Submit &#187;' class='pushbutton-wide'/>
+		<input type="hidden" id="_wpnonce" name="_wpnonce" value="a3ead7b8b4" /><input type="hidden" name="_wp_http_referer" value="/" />
+		<input type='hidden' name='contact-form-id' value='3' />
+		<input type='hidden' name='action' value='grunion-contact-form' />
+	</p>
+</form>
+</div>
+		</div><!-- .entry-content -->
+	
+	<span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/kearsemarketing.wordpress.com/3">Edit <span class="screen-reader-text">"Contact Us"</span></a></span></article><!-- #post-## -->
+<ul class="panel-navigation"><li><a class="panel0" href="#page"><span class="sep">&diams;</span><span class="hidden">Back to Top</span></a></li><li><a class="panel1" href="#panel1"><span class="sep">&diams;</span><span class="hidden">About Us</span></a></li><li><a class="panel2" href="#panel2"><span class="sep">&diams;</span><span class="hidden">Contact Us</span></a></li></ul><!-- .panel-navigation -->
+	</main><!-- #main -->
+</div><!-- #primary -->
+
+
+	</div>
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+				<nav class="jetpack-social-navigation" role="navigation">
+			<div class="menu-social-media-container"><ul id="menu-social-media" class="menu"><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="http://www.facebook.com"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://www.linkedin.com"><span class="screen-reader-text">LinkedIn</span></a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="http://www.twitter.com"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="http://www.instagram.com"><span class="screen-reader-text">Instagram</span></a></li>
+</ul></div>		</nav><!-- .jetpack-social-navigation -->
+	
+		
+		<div class="site-info">
+	<a href="https://wordpress.com/?ref=footer_website">Create a free website or blog at WordPress.com.</a>
+	
+	</div><!-- .site-info -->
+	</footer>
+</div>
+<!--  -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(document).ready( function($) {
+			function doFollowingHover() {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				$('#wp-admin-bar-follow > a').bind( 'mouseover.unfollow', function() {
+
+					$(this).html( "Unfollow" ).parent( 'li' ).addClass( 'unfollow' );
+				});
+				$('#wp-admin-bar-follow > a').bind( 'mouseout.unfollow', function() {
+					$(this).html( "Following" ).parent( 'li' ).removeClass( 'unfollow' );
+				});
+			}
+							doFollowingHover();
+			
+			$('#wp-admin-bar-follow > a').click( function( e ) {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				e.preventDefault();
+
+				var link = $( this ), li = $( '#wp-admin-bar-follow' ), timeout = 0;
+
+				if ( li.hasClass( 'subscribed' ) ) {
+					li.removeClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Follow" );
+
+					$('body').append( $( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble' );
+
+					var action = 'ab_unsubscribe_from_blog';
+				} else {
+					li.addClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "Following" );
+
+						var left = 131 - link.width();
+						li.append( $( 'div.wpcom-bubble' ).css( { left: '-' + left + 'px' } ) );
+						$( 'div.bubble-txt', 'div.wpcom-bubble' ).html( "New posts from this blog will now appear in <a target=\"_blank\" href=\"http:\/\/wordpress.com\/\">your reader<\/a>. You can manage email alerts from your <a target=\"_blank\" href=\"http:\/\/wordpress.com\/following\/edit\/\">subscriptions page<\/a>." );
+
+						$( 'div.wpcom-bubble.action-bubble' ).addClass( 'fadein' );
+
+						setTimeout( function() {
+							$('body').on( 'click.bubble touchstart.bubble', function(e) {
+								if ( !$(e.target).hasClass('wpcom-bubble') && !$(e.target).parents( 'div.wpcom-bubble' ).length )
+									hideBubble();
+							});
+							setTimeout( hideBubble, 15000 );
+						}, 500 );
+
+					var action = 'ab_subscribe_to_blog';
+					$('#wp-admin-bar-follow > a').bind( 'mouseout.shift', function() {
+						doFollowingHover();
+						$(this).unbind( '.shift' );
+					});
+				}
+
+				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
+				nonce = nonce[1];
+
+				$.post( "https:\/\/kearsemarketing.wordpress.com\/wp-admin\/admin-ajax.php", {
+					'action': action,
+					'_wpnonce': nonce,
+					'source': 'admin_bar',
+					'blog_id': 121775637				});
+			});
+		});
+	/* ]]> */
+	</script>
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201652y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":"3fecdda47c843ecdc8c4d0f86d082048"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<div id="report-form-window" style="display:none;"></div>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/kearsemarketing.wordpress.com\/":30};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/grunion-contact-form/css/grunion.css?m=1443822690h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s1.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpNotesArgs = {"cacheBuster":"20160329","iframeUrl":"https:\/\/widgets.wp.com\/notificationsbeta\/","iframeAppend":"2","iframeScroll":"no","wide":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":"30","current_url":"https:\/\/kearsemarketing.wordpress.com","report_this_content":"Report this content"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"121775637","siteName":"Kearse Marketing","siteURL":"http:\/\/kearsemarketing.wordpress.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/void.gif' class='avatar avatar-36' height='36' width='36' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/affinity","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/kearsemarketing.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fkearsemarketing.wordpress.com%2F","themeURL":"https:\/\/wordpress.com\/themes\/affinity\/","xhrURL":"https:\/\/kearsemarketing.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"0755595433","isSingular":"1","isFolded":"","isLoggedIn":"1","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"23041816a4\" \/>","referer":"https:\/\/kearsemarketing.wordpress.com\/","canFollow":"","statusMessage":"","customizeLink":"https:\/\/kearsemarketing.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fkearsemarketing.wordpress.com%2F","postID":"30","shortlink":"http:\/\/wp.me\/P8eXpb-u","canEditPost":"1","editLink":"https:\/\/wordpress.com\/page\/kearsemarketing.wordpress.com\/30","i18n":{"view":"View Site","follow":"Follow","following":"Following","edit":"Edit","login":"Log In","signup":"Sign Up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Affinity","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editFollows":"Manage Sites I Follow","editSubs":"Manage Subscriptions","viewReader":"View Site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/kearsemarketing.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fkearsemarketing.wordpress.com%2F\">Log in now.<\/a>"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVUtF2wiAM/aEhR6c728POvoVC2qYtgRGo+vcDNzvnqXW+EEjuDblJ5N4L7SgCRdmxNDCiBn9YdfwkcwhJD8kAl1hsUfeVO0yXM+jMt0n4ITVILAfsM+kzQYJWkRkgzGVUxiKJSoVVtgvZJlyOa2fFL+82J+NsdonvSrpSUiV5jx4eIf1xXBNjCzbDfKqkqmskjEepmCGeqHXIMK8amFOONgd4cMqAuRR/ibGKHYXjXG/u/JxIR3T0YMGkRmxUIT7G4x59bhD1onY6sahxdn0SGQisXYBbgitV1opgTnHpR+KodLs0P3IRfk5RRudIjJu7+GmdlsHRsQjgXYhZaLDX73/tb55phFC+ciOEgEX55FvKcBpoyTDdFtDeca5pUBgktyogNWebSR/2fb193TzvXta7t+4LqMt/Wg=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?55" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['identifyUser', 114879685, 'kearsez']);
+_tkq.push(['storeContext', {'blog_id':'121775637','blog_tz':'-6','user_lang':'en','blog_lang':'en'}]);
+_stq.push(['view', {'blog':'121775637','v':'wpcom','tz':'-6','user':'1','user_id':'114879685','post':'30','subd':'kearsemarketing'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1zNDZ8S252Wis9XUQyb3YrcUVIU2R0VH5TdXIyfFgyfjVBN0kxOHx1dltNeFE2PUhSbTc4TFQ/by1wUUouNUZwLHMrVHh8c2lBV0JxNnVbelRxdG53aThrNkFkMm1DVkpDSmdNbzF6bz14fj0zdFZCSWhVSzBrcVVRV25jaV1fdVlOSEUlaGQuRDFka0l4JVlMdGZ6W1h1SFFsd2cudlRIYVQvY1tWc0pBTU1vPWZHTE92R1s1flVCd3dmMFMyNlVaTWlxen5xLk9zNHM4Vzk2JXpwVXx4amw2cSVhZmstQmstZjFIX1FxPV1icVJMej1d'}]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+		<div id="wpadminbar" class="nojq nojs ltr">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+						<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+			
+		<li id="wp-admin-bar-blog" class="menupop my-sites"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/stats/kearsemarketing.wordpress.com">My Site</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-blog-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-new-site"><a class="ab-item"  href="https://wordpress.com/start?ref=admin-bar-logged-in">+ Add New WordPress</a>		</li>
+		<li id="wp-admin-bar-blog-info" class="current-site"><a class="ab-item"  href="https://kearsemarketing.wordpress.com/"><div class="ab-site-icon"></div><span class="ab-site-title">Kearse Marketing</span><span class="ab-site-description">kearsemarketing.wordpress.com</span></a>		</li>
+		<li id="wp-admin-bar-blog-stats" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/stats/kearsemarketing.wordpress.com">Stats <img style="width: 95px; margin: 0; float: right;" src="https://kearsemarketing.wordpress.com/wp-includes/charts/admin-bar-hours-scale-2x.php?masterbar=1" alt="Stats" title="Showing site views per hour for the last 48 hours. Click for full Site Stats." /></a>		</li>
+		<li id="wp-admin-bar-plan" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/plans/kearsemarketing.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-plan">Plan</a><a href="https://wordpress.com/plans/kearsemarketing.wordpress.com" class="ab-secondary" id="wp-admin-bar-plan-badge">Free</a></div>		</li>		</ul>
+			<ul id="wp-admin-bar-publish" class="ab-submenu">
+			
+		<li id="wp-admin-bar-publish-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Publish</div>		</li>
+		<li id="wp-admin-bar-new-post" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/posts/kearsemarketing.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-edit-post">Blog Posts</a><a href="https://wordpress.com/post/kearsemarketing.wordpress.com" class="ab-secondary" id="wp-admin-bar-new-post">Add</a></div>		</li>
+		<li id="wp-admin-bar-new-page" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/pages/kearsemarketing.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-edit-page">Pages</a><a href="https://wordpress.com/page/kearsemarketing.wordpress.com" class="ab-secondary" id="wp-admin-bar-new-page">Add</a></div>		</li>		</ul>
+			<ul id="wp-admin-bar-look-and-feel" class="ab-submenu">
+			
+		<li id="wp-admin-bar-look-and-feel-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Personalize</div>		</li>
+		<li id="wp-admin-bar-themes" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/design/kearsemarketing.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-themes">Themes</a><a href="https://kearsemarketing.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fkearsemarketing.wordpress.com%2F" class="ab-secondary" id="wp-admin-bar-cmz">Customize</a></div>		</li>
+		<li id="wp-admin-bar-menus" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/menus/kearsemarketing.wordpress.com">Menus</a>		</li>		</ul>
+			<ul id="wp-admin-bar-configuration" class="ab-submenu">
+			
+		<li id="wp-admin-bar-configuration-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Configure</div>		</li>
+		<li id="wp-admin-bar-sharing" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/sharing/kearsemarketing.wordpress.com">Sharing</a>		</li>
+		<li id="wp-admin-bar-users-toolbar" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/people/team/kearsemarketing.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-people">People</a><a href="https://kearsemarketing.wordpress.com/wp-admin/users.php?page=wpcom-invite-users" class="ab-secondary" id="wp-admin-bar-people-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-plugins" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/plugins/kearsemarketing.wordpress.com">Plugins</a>		</li>
+		<li id="wp-admin-bar-domains" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/domains/kearsemarketing.wordpress.com" class="ab-item ab-primary mb-icon" id="wp-admin-bar-domains">Domains</a><a href="https://wordpress.com/domains/add/kearsemarketing.wordpress.com" class="ab-secondary" id="wp-admin-bar-domains-add">Add</a></div>		</li>
+		<li id="wp-admin-bar-blog-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/settings/general/kearsemarketing.wordpress.com">Settings</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-jumptotop-button-menu"><a class="ab-item"  href="#"><div id="jumptotop"><span class="noticon noticon-top"></span></div></a>		</li>
+		<li id="wp-admin-bar-newdash" class="menupop"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/">Reader</a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-newdash-default" class="ab-submenu">
+			
+		<li id="wp-admin-bar-streams-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Streams</div>		</li>
+		<li id="wp-admin-bar-following" class="inline-action">		<div class="ab-item ab-empty-item" ><a href="https://wordpress.com/" class="ab-item ab-primary mb-icon" id="wp-admin-bar-followed-sites">Followed Sites</a><a href="https://wordpress.com/following/edit" class="ab-secondary" id="wp-admin-bar-reader-followed-sites-manage">Manage</a></div>		</li>
+		<li id="wp-admin-bar-discover-discover" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/discover">Discover</a>		</li>
+		<li id="wp-admin-bar-discover-search" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/read/search">Search</a>		</li>
+		<li id="wp-admin-bar-discover-recommended-blogs" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/recommendations">Recommendations</a>		</li>
+		<li id="wp-admin-bar-my-activity-my-likes" class="mb-icon-spacer"><a class="ab-item"  href="https://wordpress.com/activities/likes">My Likes</a>		</li>		</ul>
+	</div>		</li>		</ul>
+			<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+			
+		<li id="wp-admin-bar-notes" class="menupop">		<div class="ab-item ab-empty-item" ><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read"></span><span class="noticon noticon-bell"></span><span class="ab-text">Notifications</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header"></span><span class="wpnt-notes-panel-link"></span></div></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item"  aria-haspopup="true" href="https://wordpress.com/me/"><img alt='' src='https://0.gravatar.com/avatar/3fecdda47c843ecdc8c4d0f86d082048?s=32&#038;d=mm&#038;r=G' class='avatar avatar-32' height='32' width='32' /><span class="ab-text">Me</span></a>			<div class="ab-sub-wrapper">		<ul id="wp-admin-bar-user-actions" class="ab-submenu">
+			
+		<li id="wp-admin-bar-user-info" class="user-info user-info-item">		<div class="ab-item ab-empty-item" tabindex="-1"><img alt='' src='https://0.gravatar.com/avatar/3fecdda47c843ecdc8c4d0f86d082048?s=128&#038;d=mm&#038;r=G' class='avatar avatar-128' height='128' width='128' /><span class="display-name">kearsez</span><a class="username" href="http://gravatar.com/kearsez">@kearsez</a><form action="https://kearsemarketing.wordpress.com/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fwordpress.com%2F%3Fapppromo&amp;_wpnonce=7787e3f8cc" method="post"><button class="ab-sign-out" type="submit">Sign Out</button></form></div>		</li>
+		<li id="wp-admin-bar-profile-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Profile</div>		</li>
+		<li id="wp-admin-bar-my-profile" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me">My Profile</a>		</li>
+		<li id="wp-admin-bar-account-settings" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/account">Account Settings</a>		</li>
+		<li id="wp-admin-bar-billing" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/purchases">Manage Purchases</a>		</li>
+		<li id="wp-admin-bar-security" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/security">Security</a>		</li>
+		<li id="wp-admin-bar-notifications" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/notifications">Notifications</a>		</li>
+		<li id="wp-admin-bar-special-header" class="ab-submenu-header">		<div class="ab-item ab-empty-item" >Special</div>		</li>
+		<li id="wp-admin-bar-get-apps" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/get-apps">Get Apps</a>		</li>
+		<li id="wp-admin-bar-next-steps" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/me/next">Next Steps</a>		</li>
+		<li id="wp-admin-bar-help" class="mb-icon"><a class="ab-item"  href="https://wordpress.com/help">Help</a>		</li>		</ul>
+	</div>		</li>
+		<li id="wp-admin-bar-ab-new-post"><a class="ab-item"  href="https://wordpress.com/post/kearsemarketing.wordpress.com"><span>Write</span></a>		</li>		</ul>
+				</div>
+							<a class="screen-reader-shortcut" href="https://kearsemarketing.wordpress.com/wp-login.php?action=logout&#038;_wpnonce=7787e3f8cc">Log Out</a>
+					</div>
+
+	
+<script type="text/javascript">
+/* <![CDATA[ */
+var clickDebugLink;
+
+jQuery(document).ready( function($) {
+	var single = false, w = 1000,
+		supe = false;
+
+	$(document.body).load(function(){ $('#wpadminbar img.grav-hashed').removeClass('grav-hashed'); }); // hack to hide the gravatar hovercard
+
+	if ( single && supe )
+		w = 1385;
+	else if ( supe )
+		w = 1200;
+
+	// debug bar extra
+	clickDebugLink = function( parent_id, obj ) {
+
+		$('#'+parent_id).children('div').hide();
+
+		document.getElementById( obj.href.substr( obj.href.indexOf( '#' ) + 1 ) ).style.display = 'block';
+		$( obj.href.substr( obj.href.indexOf( '#' ) ) ).show()
+
+		$(obj).parent().addClass('current').siblings('li').removeClass('current');
+
+		return false;
+	};
+
+	$( '#wpadminbar #wp-admin-bar-shortlink' ).click( function() {
+		$( '#adminbar-shortlink-input' ).select();
+	});
+
+	// skip tap-to-hover on site switcher for mobile
+	if ( 'ontouchstart' in window ) {
+		$('#wp-admin-bar-switch-site').on( 'touchstart', function( event ) {
+			if ( $( window ).width() > 782 ) {
+				return;
+			}
+			event.stopPropagation();
+			$( event.target ).first( 'a' ).click();
+		});
+	}
+
+});
+/* ]]> */
+</script>
+	<div class="wpcom-bubble action-bubble">
+		<div class="bubble-txt"></div>
+	</div>
+	<script type="text/javascript">function hideBubble() { jQuery('body').append( jQuery( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble touchstart.bubble' ); jQuery(document).off( 'scroll.bubble' ); };</script>
+		<script type="text/javascript">
+	jQuery( '#wp-admin-bar-jumptotop-button-menu a' ).click( function( e ) {
+		e.preventDefault();
+		jQuery( 'html, body' ).animate( { scrollTop: 0 }, 'fast' );
+	} );
+	function hideShowTbJumpToTop() {
+		var total_width = 0;
+		// Calculate total width taken by items minus our button to see if it'll
+		// overlap with other toolbar menus.
+		jQuery( '#wp-admin-bar-root-default > li' ).each( function() {
+			var self = jQuery( this );
+			if ( 'wp-admin-bar-jumptotop-button-menu' != self.attr( 'id' ) )
+				total_width += self.width();
+		});
+		if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() >= 350 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) < 0 ) {
+			if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 )
+			   return;
+			jQuery( '#jumptotop' ).animate( { 'top': 0 }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() < 1 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) >= 0 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		}
+	}
+	// handle on page load if auto scrolling to a position
+	hideShowTbJumpToTop();
+	// bind to scrolll event
+	var jumpToTopTimer = null;
+	jQuery( window ).scroll( function() {
+		clearTimeout( jumpToTopTimer );
+		jumpToTopTimer = setTimeout( jumpToTopRefresh, 150 );
+	} );
+	var jumpToTopRefresh = function() {
+		hideShowTbJumpToTop();
+	};
+	</script>
+	<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+
